@@ -1,0 +1,2 @@
+# mlops2025w_142502003
+MLOPS(DS5619) M-Tech Sem-1
